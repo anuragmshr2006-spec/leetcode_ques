@@ -16,6 +16,6 @@ class Solution {
                 }
                 return temp;
             }
-        
+        // worst case me iski time complexity 2n hogi 
     
 }
