@@ -1,28 +1,26 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> st = new Stack<>();
-        int n = s.length();
-        
-        for ( int i = 0 ; i < n ; i++ ){
-if (  s.charAt(i) == '(' || s.charAt(i) == '[' || s.charAt(i) == '{'){
-  st.push(s.charAt(i));
-}
-else {
-    if(st.isEmpty()){
-        return false;
-    }
-    char top = st.pop();
-    if (  s.charAt(i) == ')' && top != '(' ){
-        return false;
-    }
-     if (  s.charAt(i) == ']' && top != '[' ){
-        return false;
-    }
-     if (  s.charAt(i) == '}' && top != '{' ){
-        return false;
-    }
-}
+      Stack<Character> st = new Stack<>();
+      int n = s.length();
+      if( n %2  != 0 ) return false;
+      for(int i = 0 ; i <  n ; i++ ){
+        char ch = s.charAt(i);
+        if( ch == '(' || ch == '[' || ch == '{') st.push(ch);
+        else{
+            if(st.size() == 0) return false;
+            char top = st.peek();
+            if (sameStyle(top,ch)) st.pop(); // yaha top opening bracket hai (koi sa bhi )
+            else return false;
         }
-        return st.isEmpty();
+        }
+        return (st.size() == 0 );
+      }
+  static boolean sameStyle(char a, char b ){
+       if( a == '(' && b == ')') return true;
+       if( a == '[' && b == ']') return true;
+       if( a == '{' && b == '}') return true;
+       return false;
+
+  
     }
 }
