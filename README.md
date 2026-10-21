@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0059-spiral-matrix-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0682-baseball-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/2487-remove-nodes-from-linked-list) |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/2089-find-target-indices-after-sorting-array) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
