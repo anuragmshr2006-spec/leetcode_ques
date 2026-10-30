@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0682-baseball-game) |
+| [0976-largest-perimeter-triangle](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0976-largest-perimeter-triangle) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
@@ -58,9 +59,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0976-largest-perimeter-triangle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0084-largest-rectangle-in-histogram) |
+## Math
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0976-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/anuragmshr2006-spec/leetcode_ques/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
